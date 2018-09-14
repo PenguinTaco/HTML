@@ -1,0 +1,4 @@
+1. The basic parts of a table are the rows and columns. Rows are tagged <th> and columns are tagged <td>.
+2. The most common attribute of a table is width which specifys how wide the table will be of the browser window.
+3. The attribute that is used to create a cell that spans more than one column is called colspan and the attribute that is used to create a cell that spans more than one row is called rowspan.
+4. The element to define the head is <head>. The element that defines the body is called <body>. And the element that defines the footer is called <footer>.
