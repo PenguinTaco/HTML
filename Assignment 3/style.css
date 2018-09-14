@@ -1,0 +1,17 @@
+body{
+	/* Setting background of page to grey */
+	background-color: #808080;
+}
+table {
+	width: 100%;
+	background-color: #222222;
+}
+a#a1:link {
+	color: #808080;
+}
+a#a1:visited{
+	color: #808080;
+}
+a#a1:hover {
+	color: #222222;
+}
