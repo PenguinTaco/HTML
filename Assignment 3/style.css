@@ -6,6 +6,7 @@ table {
 	width: 100%;
 	background-color: #222222;
 }
+/* Setting colors for first link */
 a#a1:link {
 	color: #808080;
 }
@@ -13,5 +14,23 @@ a#a1:visited{
 	color: #808080;
 }
 a#a1:hover {
-	color: #222222;
+	color: #ff0000;
 }
+a#a1:active {
+	color: #808080;
+}
+/* Finished setting colors for first link */
+/* Setting colors for second link */
+a#a2:link {
+	color: #808080;
+}
+a#a2:visited {
+	color: #808080;
+}
+a#a2:hover {
+	color: #00ff00;
+}
+a#a2:active {
+	color: #808080;
+}
+/* Finished setting colors for second link */
