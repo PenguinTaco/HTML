@@ -18,26 +18,34 @@ table {
 /* Setting colors for first link */
 a#a1:link {
 	color: #808080;
+	text-decoration: none;
 }
 a#a1:visited{
 	color: #808080;
+	text-decoration: none;
 }
 a#a1:hover {
 	color: #ff0000;
+	text-decoration: none;
 }
 a#a1:active {
 	color: #808080;
+	text-decoration: none;
 }
 /* Setting colors for second link */
 a#a2:link {
 	color: #808080;
+	text-decoration: none;
 }
 a#a2:visited {
 	color: #808080;
+	text-decoration: none;
 }
 a#a2:hover {
 	color: #00ff00;
+	text-decoration: none;
 }
 a#a2:active {
 	color: #808080;
+	text-decoration: none;
 }
