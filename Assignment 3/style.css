@@ -1,8 +1,12 @@
 body{
-	/* Setting background of page to grey */
+/* Setting background of page to grey */
 	background-color: #222222;
 }
+/* Setting Classes */
 .title {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -22,6 +26,10 @@ body{
 .center {
 	text-align: center;
 }
+.link {
+	direction: rtl;
+}
+/* Setting Table Vars */
 table {
 	margin-left: auto;
 	margin-right: auto;
@@ -31,6 +39,7 @@ table {
 	border-radius: 5px;
 	border-color: #add8e6;
 	background-color: #808080;
+	color: #222222;
 }
 /* Setting colors for first link */
 a#a1:link {
