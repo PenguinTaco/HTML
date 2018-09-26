@@ -1,0 +1,25 @@
+div{
+	width: 250px;
+	height: 80px;
+	text-align: center;
+}
+div.one {
+	background-color: red;
+}
+div.two {
+	background-color: green;
+}
+div.three {
+	background-color: blue;
+}
+div.four {
+	background-color: yellow;
+}
+img {
+	height: 31px;
+	width: 88px;
+	border-top: blue 2px solid;
+	border-right: blue 2px solid;
+	border-bottom: blue 2px solid;
+	border-left: blue 2px solid;
+}
